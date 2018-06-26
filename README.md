@@ -18,3 +18,11 @@ After downloading the .ino file, you will have to setup your ADXL libary to use 
 #define Y_AXIS_PIN A1 //GREEN
 #define Z_AXIS_PIN A2 //WHITE
 ```
+
+# The Circuit:
+For the creatino of the circuitry we used:
+- 7 Adafruit NeoPixels
+- 1 Adafruit ADXL335 
+- 1 Adafruit Pro Trinket - 5V 16MHz
+
+![Schematic Picture](https://hnt.soaringnetwork.com/imgs/schematic.jpg "Chasing Colours Schematic")
