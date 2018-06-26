@@ -1,5 +1,5 @@
-# Chasing-Colours
-Chasing Colours is our product. For more information see: https://digitalsocietyschool.org/project/chasing-colors/
+# Chasing-Colors
+Chasing Colors is our product. For more information see: https://digitalsocietyschool.org/project/chasing-colors/
 
 # Prerequisites 
 To open and execute the project you will need to download [Arduino IDE](https://www.arduino.cc/en/Main/Software?)
